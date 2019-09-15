@@ -1,0 +1,31 @@
+{
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "C:/wamp64/bin/php/php7.2.18/php.exe",
+    "code-runner.executorMap": {
+        "php": "C:/wamp64/bin/php/php7.2.18/php.exe"
+    },
+    "phpfmt.php_bin": "C:/wamp64/bin/php/php7.2.18/php.exe",
+    "editor.formatOnType": true,
+    "editor.formatOnSaveTimeout": 1250,
+    "files.autoSave": "off",
+    "editor.minimap.enabled": true,
+    "[php]": {},
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.hotExit": "onExitAndWindowClose",
+    "sync.gist": "0af0630354e6645e802bc71c47615750",
+    "sync.quietSync": true,
+    "[html]": {},
+    "[fsharp]": {},
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.json": "json"
+    },
+    "sync.removeExtensions": false,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "window.zoomLevel": 2
+}
